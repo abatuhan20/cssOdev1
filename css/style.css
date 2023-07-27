@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(184, 163, 204);
+}
+.orta {
+    text-align: center;
+}
+h1 {
+    color:rgb(2, 2, 54);
+}
+h3 {
+    color:darkred;
+    line-height: 5px;
+}
+a {
+    text-align: center;
+}
+
+ul {
+    display:inline-block;
+    text-align: left;
+}
+ol {
+    list-style-position: inside;
+}
+#sagMargin {
+    margin-right: 20px; /* sağdan boşluk bırakıyor */
+}
+#solMargin {
+    margin-left: 30px;
+}
+
+div.container {
+    text-align: center;
+  }
